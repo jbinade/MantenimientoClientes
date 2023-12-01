@@ -1,0 +1,38 @@
+h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tr, th, td {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+#campos {
+    background-color: orange;
+    font-weight: 700;
+}
+
+#editar {
+    background-color: green;
+}
+
+#borrar {
+    background-color: red;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+    display: block;
+    margin: auto;
+}
+
